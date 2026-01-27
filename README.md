@@ -1,5 +1,7 @@
 # Automação de Criação de Grupos e Campanhas no ZapResponder
 
+https://github.com/user-attachments/assets/d4e6ffbd-2ef3-4b47-b7e0-c0bc5adf61fd
+
 Este projeto utiliza **Selenium WebDriver** para automatizar o processo de criação de grupos de contatos e agendamento de campanhas na plataforma [ZapResponder](https://app.zapresponder.com.br).
 
 O script realiza as seguintes ações automaticamente:
